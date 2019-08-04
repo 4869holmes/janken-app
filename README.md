@@ -1,3 +1,3 @@
 # janken-app
 
-My first app by making Xcode
+My first app by making Xcode !!
