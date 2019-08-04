@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyJanken/ViewController.swift"
+            timestampString = "586624791.0061719"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyJanken.ViewController.answerImageView.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "MyJanken"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tonookatakuma/Desktop/MyApps/MyJanken/MyJanken/ViewController.swift"
+                  timestampString = "585721424.582891"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyJanken.ViewController.answerImageView.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "MyJanken"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tonookatakuma/Desktop/MyApps/MyJanken/MyJanken/ViewController.swift"
+                  timestampString = "585721424.585417"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyJanken.ViewController.answerImageView.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "MyJanken"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tonookatakuma/Desktop/MyApps/MyJanken/MyJanken/ViewController.swift"
+                  timestampString = "585721424.587701"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyJanken.ViewController.answerImageView.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "MyJanken"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tonookatakuma/Desktop/MyApps/MyJanken/MyJanken/ViewController.swift"
+                  timestampString = "585721424.589489"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyJanken.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; MyJanken.ViewController"
+                  moduleName = "MyJanken"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tonookatakuma/Desktop/MyApps/MyJanken/MyJanken/ViewController.swift"
+                  timestampString = "585721424.5914201"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "217">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyJanken.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MyJanken.ViewController&gt;"
+                  moduleName = "MyJanken"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tonookatakuma/Desktop/MyApps/MyJanken/MyJanken/ViewController.swift"
+                  timestampString = "585721424.593225"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "122">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
